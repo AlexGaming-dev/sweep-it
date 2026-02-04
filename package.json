@@ -1,0 +1,17 @@
+{
+  "name": "sweep-it",
+  "version": "1.0.0",
+  "description": "Professional CLI tool to organize cluttered directories.",
+  "main": "bin/index.js",
+  "bin": {
+    "sweep-it": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Alex Gaming Studio",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
