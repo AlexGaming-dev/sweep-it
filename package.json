@@ -1,10 +1,14 @@
 {
-  "name": "sweep-it",
-  "version": "1.0.0",
+  "name": "@alexgamingdev/sweep-it",
+  "version": "1.0.2",
   "description": "Professional CLI tool to organize cluttered directories.",
   "main": "bin/index.js",
   "bin": {
-    "sweep-it": "./bin/index.js"
+    "sweep-it": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexGaming-dev/sweep-it.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
@@ -13,5 +17,9 @@
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^11.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/AlexGaming-dev/sweep-it/issues"
+  },
+  "homepage": "https://alexgaming.is-a.dev/projects/redirect/sweep-it/"
 }
