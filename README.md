@@ -11,7 +11,7 @@ Professional CLI tool by **Alex Gaming Studio** to keep your workspaces clean.
 Run this command to install the tool globally:
 
 ````bash
-npm install -g sweep-it
+npm install -g @alexgamingdev/sweep-it
 ````
 
 ## Usage
