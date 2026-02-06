@@ -3,7 +3,8 @@
 Professional CLI tool by **Alex Gaming Studio** to keep your workspaces clean.
 
 ![Sweep-It Logo](https://raw.githubusercontent.com/AlexGaming-dev/sweep-it/main/assets/logo.png)
-[![GitHub license](https://img.shields.io/github/license/AlexGaming-dev/sweep-it)](https://github.com/AlexGaming-dev/sweep-it/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/AlexGaming-dev/sweep-it)](https://github.com/AlexGaming-dev/sweep-it/blob/main/LICENSE) 
+
 [![CI State](https://github.com/AlexGaming-dev/sweep-it/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexGaming-dev/sweep-it/actions)
 
 ## Installation
